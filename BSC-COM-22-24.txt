@@ -1,0 +1,23 @@
+* commit df562c709d3756c29bbada9b7696739eb32a6889
+| Author: bsc-com-22-24 <bsc-com-22-24@unima.ac.mw>
+| Date:   Fri Mar 6 15:17:53 2026 +0200
+| 
+|     Add .gitignore file
+|   
+| * commit c43b0a250531c00e8efa6320b66dcf90663f2099
+|/  Author: bsc-com-22-24 <bsc-com-22-24@unima.ac.mw>
+|   Date:   Fri Mar 6 15:17:24 2026 +0200
+|   
+|       Add signup feature
+| 
+* commit 2d73e54e4cd9b11132f0ae4443476e212055acb0
+| Author: bsc-com-22-24 <bsc-com-22-24@unima.ac.mw>
+| Date:   Fri Mar 6 15:16:49 2026 +0200
+| 
+|     Add login feature
+| 
+* commit 8fda224f2de427d4982e53faaf31b82dba71b2c7
+  Author: bsc-com-22-24 <bsc-com-22-24@unima.ac.mw>
+  Date:   Fri Mar 6 15:13:03 2026 +0200
+  
+      Initial commit: added txt file for bsc-com-22-24
